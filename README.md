@@ -1,4 +1,4 @@
-# Reproducing every table in the paper
+# When Planning Problems Become Hard for LLMs: Separating Structural Complexity from Semantic Interpretability
 
 This bundle contains the complete, current set of scripts needed to regenerate every table
 in the paper — 16 Python scripts plus cluster orchestration helpers. It deliberately excludes
